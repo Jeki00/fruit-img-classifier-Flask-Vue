@@ -21,6 +21,6 @@ npm install
 npm run dev
 ```
 
-![](./img/demo-fruit-clf.gif)
+![](https://github.com/img/demo-fruit-clf.gif)
 
 
