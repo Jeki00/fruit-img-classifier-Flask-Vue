@@ -21,6 +21,6 @@ npm install
 npm run dev
 ```
 
-!([https://github.com/img/demo-fruit-clf.gif](https://github.com/Jeki00/fruit-img-classifier-Flask-Vue/blob/master/img/demo-fruit-clf.gif))
+![demo](https://github.com/Jeki00/fruit-img-classifier-Flask-Vue/blob/master/img/2024-12-11%2014-28-09.gif)
 
 
